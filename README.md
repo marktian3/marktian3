@@ -15,3 +15,5 @@
 - Building up my CS fundamentals (DS&A, networking, System Design...etc)
 - Java, Spring, Kafka, Python 
 - Dabbling with front end 
+
+Contact: marktian3 at gmail dot com
