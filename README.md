@@ -16,4 +16,7 @@
 - Java, Spring, Kafka, Python 
 - Dabbling with front end 
 
+**📰 Blog:**
+TBA
+
 Contact: marktian3 at gmail dot com
