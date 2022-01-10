@@ -1,16 +1,17 @@
-### Hi there 👋
+### Welcome 👋
 
-<!--
-**marktian3/marktian3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🕵️ About me** 
 
-Here are some ideas to get you started:
+- Software Engineer @Morgan Stanley, building highly scalable and resilient systems
+- University of Alberta graduate, B.Sc in Electrical Nanoengineering
+- Past exp in traditional engineering in the mining and energy industry 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**✨ Interested in...**
+- Health, nutrition, fitness, general wellbeing
+- Board games + video games
+- Cryptocurrency (who isn't these days...)
+
+**📚 Currently Learning...**
+- Building up my CS fundamentals (DS&A, networking, System Design...etc)
+- Java, Spring, Kafka, Python 
+- Dabbling with front end 
